@@ -1,5 +1,10 @@
 *.class
 
+# Train Files #
+*.txt
+*.itutagged
+cachedTrain
+
 # Package Files #
 *.jar
 *.war
